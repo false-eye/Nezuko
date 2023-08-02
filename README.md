@@ -46,7 +46,7 @@ Nezuko is free and open-source software licensed under the [GNU Affero General P
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EternityBots/Nezuko)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/false-eye/Nezuko)
 
 ## 🐧 Linux Auto Install
 
